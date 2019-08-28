@@ -1,0 +1,10 @@
+capsule-info {
+  display-name (Suggest Me Capsule)
+  developer-name (Pyneapple)
+  icon-asset (../assets/images/icone.png)
+  description ("A capsule to help you decide where to eat.")
+  dispatch-name (Suggest Me Capsule)
+  search-keywords {
+    keyword (help)
+  }
+}

@@ -1,0 +1,5 @@
+train (t-dtuqqnnwzszq9ztrakivsus6y) {
+  utterance ("[g:GetContent] Suggest me a (barbecue)[v:SearchTerm] restaurant")
+  plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1567034503074)
+}

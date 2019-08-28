@@ -1,0 +1,5 @@
+train (t-vhix58meytf6sn4gx53dunktx) {
+  utterance ("[g:GetContent] Suggest me a (pizza)[v:SearchTerm] place")
+  plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1567034503810)
+}

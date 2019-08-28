@@ -1,0 +1,5 @@
+train (t-ob62ldzn43l81yq3tg9kdl9an) {
+  utterance ([g:GetContent] Suggest me a restaurant)
+  plan (Y2BiEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLYFJMAIhAxQDSQA=)
+  last-modified (1567033996157)
+}
